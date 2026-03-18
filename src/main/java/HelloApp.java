@@ -8,5 +8,6 @@ public class HelloApp {
         else {
             // Default message if no argument is given
             System.out.println("Hello, World!");
-        }    }
+        }
+    }
 }
