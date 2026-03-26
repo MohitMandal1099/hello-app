@@ -7,7 +7,7 @@ public class HelloApp {
             System.out.println("Hello, " + names + "!");
         }
         else {
-            System.out.println("Hello, World!");
+            System.out.println("Hello,World!");
         }
 
     }
