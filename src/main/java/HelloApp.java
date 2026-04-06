@@ -9,7 +9,7 @@ public class HelloApp {
             String names = String.join(", ", args);
             message = "Hello, " + names + "!";
         }
-        System.out.println(message);
+        System.out.println(message );
     }
 }
 
